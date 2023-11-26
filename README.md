@@ -11,7 +11,6 @@ Adds a plugin which shows different use cases of the TYPO3 Context API.
 Add via composer:
 
     composer require "passionweb/context-api"
-    ''
 
 * Install the extension via composer
 * Flush TYPO3 and PHP Cache
