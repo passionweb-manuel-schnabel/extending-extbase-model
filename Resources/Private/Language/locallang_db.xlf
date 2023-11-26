@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:context_api/Resources/Private/Language/locallang_db" date="2023-05-19T13:34:38Z" product-name="context_api">
+		<header/>
+		<body>
+			<trans-unit id="plugin_context_api_examples.name" resname="plugin_context_api_examples.name">
+				<source>Context API and Aspects</source>
+			</trans-unit>
+			<trans-unit id="plugin_context_api_examples.description" resname="plugin_context_api_examples.description">
+				<source>Shows different use cases of the Context API</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
