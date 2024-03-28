@@ -10,7 +10,7 @@ return static function (ContainerConfigurator $containerConfigurator, ContainerB
         ->autowire()
         ->autoconfigure();
 
-    $services->load('Passionweb\\ContextApi\\', __DIR__ . '/../Classes/')
+    $services->load('Passionweb\\ExtendingExtbaseModel\\', __DIR__ . '/../Classes/')
         ->exclude([
             __DIR__ . '/../Classes/Domain/Model',
         ]);

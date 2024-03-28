@@ -1,16 +1,16 @@
-# Using TYPO3 Context API
+# Extending Extbase models
 
-Shows example usages of the TYPO3 Context API. (TYPO3 CMS)
+Shows an example of extending an Extbase model. (TYPO3 CMS)
 
 ## What does it do?
 
-Adds a plugin which shows different use cases of the TYPO3 Context API.
+Adds an additional field "author_image" to meta section of EXT:news article.
 
 ## Installation
 
 Add via composer:
 
-    composer require "passionweb/context-api"
+    composer require "passionweb/extending-extbase-model"
 
 * Install the extension via composer
 * Flush TYPO3 and PHP Cache
